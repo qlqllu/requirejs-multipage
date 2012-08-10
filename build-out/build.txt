@@ -1,0 +1,15 @@
+
+js/common.js
+----------------
+js/lib/jquery.js
+js/common.js
+
+js/page1.js
+----------------
+js/lib/jquery.plugin1.js
+js/page1.js
+
+js/page2.js
+----------------
+js/lib/jquery.plugin2.js
+js/page2.js
