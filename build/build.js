@@ -4,7 +4,7 @@
     dir: '../build-out',	
 	optimize: "none",
 	mainConfigFile: '../src/js/require-config.js',
-	
+	findNestedDependencies: true,
     modules: [        
         {           
             name: 'common'
